@@ -14,6 +14,7 @@ Utilizes following algorithm:
 
 ```>python3 upc.py```
 
+![alt text](https://github.com/bradegan/UPC-validity-checker/blob/master/usage.PNG?raw=true)
 
 
 
