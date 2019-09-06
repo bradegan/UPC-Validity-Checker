@@ -8,7 +8,8 @@ Checks if a given UPC is valid using checksum.
 
 ```>python3 upc.py```
 
-\n
+
+
 Utilizes following algorithm:
 1) Sum the odd-numbered digits 
 2) Multiply the result by 3
