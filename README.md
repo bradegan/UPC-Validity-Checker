@@ -3,6 +3,6 @@
 
 Checks if a given UPC is valid using checksum.
 
-Usage:
+## Usage:
 
-## python3 upc.py
+'# python3 upc.py'
