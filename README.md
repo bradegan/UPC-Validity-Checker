@@ -12,7 +12,7 @@ Utilizes following algorithm:
 ## Usage:
 
 
-```>python upc.py```
+```$ python upc.py```
 
 ![alt text](https://github.com/bradegan/UPC-validity-checker/blob/master/usage.PNG?raw=true)
 
